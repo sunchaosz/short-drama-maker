@@ -40,7 +40,7 @@
 ### 方式一：git clone（推荐）
 
 ```bash
-git clone https://github.com/<你的用户名>/short-drama-maker.git ~/.workbuddy/skills/short-drama-maker
+git clone https://github.com/sunchaosz/short-drama-maker.git ~/.workbuddy/skills/short-drama-maker
 ```
 
 重启 WorkBuddy 后即可在对话中触发。
